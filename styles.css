@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	background-color: white;
+}
+.card-header{
+  background: gray;
+}
+div[data-toggle] {
+    background-color: gray; 
+    padding: 10px;             
+    border-radius: 5px;        
+    width: 180px;              
+    margin: left 5px;           
+  }
